@@ -63,7 +63,56 @@ pilihan yang sudah di sediakan di fitur admin
 
 ![4](https://github.com/user-attachments/assets/0c548bfc-6028-47b4-99dc-47b2cbdaf59f)
 
-Jika memilih pilihan nomor 1 maka akan langsung menampilkan Tabel Menu yang terdapat menu makanan dan minuman di tabel yang terpisah
+Jika memilih pilihan nomor 1 maka akan langsung menampilkan Tabel Menu yang terdapat menu makanan dan minuman di tabel yang terpisah.
+
+dan setelah itu akan langsung otomatis di alihkan ke menu Admin ulang.
+
+![5](https://github.com/user-attachments/assets/e93efe14-acdf-478f-ad18-eb28c26cd206)
+
+Dan jika memilih pilihan nomor 2 akan langsung menampilkan bagian tambah produk, disini kita bisa menambah menu atau produk dengan
+
+menentukan dulu mau menambah di produk di kategori Makanan atau Minuman
+
+![6](https://github.com/user-attachments/assets/e994b140-9c4d-45ea-9853-ca7083f23043)
+
+Jika memilih di bagian kategori makanan akan langsung di minta untuk memasukan menu makanan baru lalu memberikan harganya dengan catatan
+
+menu makanan ini kamu beri pemberitahuan untuk harga minimal 2.000 dan maksimal 20.000.
+
+![7](https://github.com/user-attachments/assets/5322c7f2-b9b1-47e6-8801-42a1e0180e45)
+
+setelah menambahkan menu dan harganya akan mengeluarkan invoice atau pemberitahuan kalau menu tersebut telah berhasil di tambahkan
+
+![8](https://github.com/user-attachments/assets/fe96022c-fd95-4228-ba7b-dc90c16c2a08)
+
+Dan di bagian Menu Admin jika memilih nomor 3 akan langsung ke bagian menu Update Produk. di update produk ini kita harus memntukan
+
+mau update produk di kategori apa, makanan atau minuman.
+
+![9](https://github.com/user-attachments/assets/eadc8765-8cfc-4738-9e2d-422509784c7b)
+
+Jika di bagian menu produk memilih untuk menu update produk minuman. pertama akan langsung menampilkan tabel kategori minuman,
+
+lalu akan langsung di arahkan untuk meng-input ID yang ingin diupdate produknya. setelah itu akan langsung diminta untuk memsukan nama
+
+produk dan harga baru.
+
+![10](https://github.com/user-attachments/assets/e82d1263-a1de-4292-8ec2-391ba70fa341)
+
+setelah update nama beserta harga produk. maka akan muncul pemberitahuan kalau produk tersebut berhasil di update.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
