@@ -47,6 +47,10 @@ Di program kami memakai beberapa Library yaitu:
 
 ============================= **ADMIN** =============================
 
+============================= **ADMIN** =============================
+
+============================= **ADMIN** =============================
+
 ![1](https://github.com/user-attachments/assets/b337341f-3015-4bb8-a16b-2b789b22522c)
 
 Disaat programnya dimulai menu pertama akan menampilkan seperti ini
@@ -106,6 +110,10 @@ Lalu jika memilih Nomor 5 di menu Admin maka akan diminta untuk input mau mencar
 ![15](https://github.com/user-attachments/assets/abf025c3-0701-444c-8aae-f11e4a765a49)
 
 Dan jika memilih nomor 6 (Kembali), itu akan langsung di alihkan ke bagian milih Role di awal
+
+============================= **USER** =============================
+
+============================= **USER** =============================
 
 ============================= **USER** =============================
 
