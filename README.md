@@ -57,27 +57,19 @@ Jika Memilih Nomor 1 maka akan langsung di arahkan ke bagian admin. dan untuk di
 
 ![3](https://github.com/user-attachments/assets/31fb6433-5688-4576-a383-01904dd5f223)
 
-Jika berhasil maka langsung di arahkan ke menu admin yang di mana menu admin ini memakai sistem CRUD dan Searching. lalu memilih
-
-pilihan yang sudah di sediakan di fitur admin
+Jika berhasil maka langsung di arahkan ke menu admin yang di mana menu admin ini memakai sistem CRUD dan Searching. lalu memilih pilihan yang sudah di sediakan di fitur admin
 
 ![4](https://github.com/user-attachments/assets/0c548bfc-6028-47b4-99dc-47b2cbdaf59f)
 
-Jika memilih pilihan nomor 1 maka akan langsung menampilkan Tabel Menu yang terdapat menu makanan dan minuman di tabel yang terpisah.
-
-dan setelah itu akan langsung otomatis di alihkan ke menu Admin ulang.
+Jika memilih pilihan nomor 1 maka akan langsung menampilkan Tabel Menu yang terdapat menu makanan dan minuman di tabel yang terpisah. dan setelah itu akan langsung otomatis di alihkan ke menu Admin ulang.
 
 ![5](https://github.com/user-attachments/assets/e93efe14-acdf-478f-ad18-eb28c26cd206)
 
-Dan jika memilih pilihan nomor 2 akan langsung menampilkan bagian tambah produk, disini kita bisa menambah menu atau produk dengan
-
-menentukan dulu mau menambah di produk di kategori Makanan atau Minuman
+Dan jika memilih pilihan nomor 2 akan langsung menampilkan bagian tambah produk, disini kita bisa menambah menu atau produk dengan menentukan dulu mau menambah di produk di kategori Makanan atau Minuman
 
 ![6](https://github.com/user-attachments/assets/e994b140-9c4d-45ea-9853-ca7083f23043)
 
-Jika memilih di bagian kategori makanan akan langsung di minta untuk memasukan menu makanan baru lalu memberikan harganya dengan catatan
-
-menu makanan ini kamu beri pemberitahuan untuk harga minimal 2.000 dan maksimal 20.000.
+Jika memilih di bagian kategori makanan akan langsung di minta untuk memasukan menu makanan baru lalu memberikan harganya dengan catatan menu makanan ini kamu beri pemberitahuan untuk harga minimal 2.000 dan maksimal 20.000.
 
 ![7](https://github.com/user-attachments/assets/5322c7f2-b9b1-47e6-8801-42a1e0180e45)
 
@@ -85,21 +77,39 @@ setelah menambahkan menu dan harganya akan mengeluarkan invoice atau pemberitahu
 
 ![8](https://github.com/user-attachments/assets/fe96022c-fd95-4228-ba7b-dc90c16c2a08)
 
-Dan di bagian Menu Admin jika memilih nomor 3 akan langsung ke bagian menu Update Produk. di update produk ini kita harus memntukan
-
-mau update produk di kategori apa, makanan atau minuman.
+Dan di bagian Menu Admin jika memilih nomor 3 akan langsung ke bagian menu Update Produk. di update produk ini kita harus memntukan mau update produk di kategori apa, makanan atau minuman.
 
 ![9](https://github.com/user-attachments/assets/eadc8765-8cfc-4738-9e2d-422509784c7b)
 
-Jika di bagian menu produk memilih untuk menu update produk minuman. pertama akan langsung menampilkan tabel kategori minuman,
-
-lalu akan langsung di arahkan untuk meng-input ID yang ingin diupdate produknya. setelah itu akan langsung diminta untuk memsukan nama
-
-produk dan harga baru.
+Jika di bagian menu produk memilih untuk menu update produk minuman. pertama akan langsung menampilkan tabel kategori minuman,lalu akan langsung di arahkan untuk meng-input ID yang ingin diupdate produknya. setelah itu akan langsung diminta untuk memsukan nama produk dan harga baru.
 
 ![10](https://github.com/user-attachments/assets/e82d1263-a1de-4292-8ec2-391ba70fa341)
 
 setelah update nama beserta harga produk. maka akan muncul pemberitahuan kalau produk tersebut berhasil di update.
+
+![11](https://github.com/user-attachments/assets/4671e6bb-665a-44cf-b88a-4336dd4cc8da)
+
+Dan Jika Di Menu Admin memilih nomor 4 akan langsung muncul di bagian menu untuk Menghapus Produk. dan di menu ini akan diminta juga untuk memilih ingin menghapus produk di kategori apa, makanan atau minuman.
+
+![12](https://github.com/user-attachments/assets/53287e2e-cd75-499a-ae50-551d9edfe6bc)
+
+dan setelah memasukan pilihan makanan atau minuman maka akan langsung diminta untuk input ID produk yang ingin di hapus.
+
+![13](https://github.com/user-attachments/assets/2abc1c5e-40a4-4061-b0f2-cec827e8a710)
+
+setelah memasukan ID produk yang ingin dihapus. akan muncul pemberitahuan seperti di atas bahwa produk dengan ID tersebut berhasil di hapus
+
+![14](https://github.com/user-attachments/assets/854885dd-ba83-4e6a-a776-70dbd7b07fc0)
+
+Lalu jika memilih Nomor 5 di menu Admin maka akan diminta untuk input mau mencari produk apa. dan langsung memunculkan produk dari kategori makanan ataupun minuman yang bersangkutan dengan input yang dimasukan.
+
+![15](https://github.com/user-attachments/assets/abf025c3-0701-444c-8aae-f11e4a765a49)
+
+Dan jika memilih nomor 6 (Kembali), itu akan langsung di alihkan ke bagian milih Role di awal
+
+
+
+
 
 
 
