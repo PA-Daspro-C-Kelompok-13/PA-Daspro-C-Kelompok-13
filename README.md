@@ -45,7 +45,7 @@ Di program kami memakai beberapa Library yaitu:
 
 # PENJELASAN PROGRAM
 
-========= **USER** =========
+==================== **ADMIN** ====================
 
 ![1](https://github.com/user-attachments/assets/b337341f-3015-4bb8-a16b-2b789b22522c)
 
