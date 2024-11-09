@@ -1,0 +1,89 @@
+{
+    "Kategori": [
+        {
+            "Nama Kategori": "Makanan",
+            "Produk": [
+                {
+                    "ID": 1,
+                    "Menu": "Mie Gacoan, Level 1-4",
+                    "Harga": 10000
+                },
+                {
+                    "ID": 2,
+                    "Menu": "Mie Gacoan, Level 5-8",
+                    "Harga": 10500
+                },
+                {
+                    "ID": 3,
+                    "Menu": "Mie Hompimpa, Level 1-4",
+                    "Harga": 11000
+                },
+                {
+                    "ID": 4,
+                    "Menu": "Mie Hompimpa, Level 5-8",
+                    "Harga": 11500
+                },
+                {
+                    "ID": 5,
+                    "Menu": "Pangsit Goreng",
+                    "Harga": 8000
+                },
+                {
+                    "ID": 6,
+                    "Menu": "Udang Keju",
+                    "Harga": 9500
+                },
+                {
+                    "ID": 7,
+                    "Menu": "Siomay Ayam",
+                    "Harga": 9000
+                }
+            ]
+        },
+        {
+            "Nama Kategori": "Minuman",
+            "Produk": [
+                {
+                    "ID": 1,
+                    "Menu": "Air Mineral(Le Mineral)",
+                    "Harga": 4500
+                },
+                {
+                    "ID": 2,
+                    "Menu": "Ice Tea",
+                    "Harga": 5000
+                },
+                {
+                    "ID": 3,
+                    "Menu": "Ice Orange",
+                    "Harga": 6000
+                },
+                {
+                    "ID": 4,
+                    "Menu": "Ice Thai Tea Original",
+                    "Harga": 7000
+                },
+                {
+                    "ID": 5,
+                    "Menu": "Ice Lemon Tea",
+                    "Harga": 7000
+                },
+                {
+                    "ID": 6,
+                    "Menu": "Ice Chocoan",
+                    "Harga": 8000
+                },
+                {
+                    "ID": 7,
+                    "Menu": "Hot Tea",
+                    "Harga": 5000
+                },
+                {
+                    "ID": 8,
+                    "Menu": "Hot Orange",
+                    "Harga": 6000
+                }
+            ]
+        }
+    ]
+}
