@@ -107,6 +107,98 @@ Lalu jika memilih Nomor 5 di menu Admin maka akan diminta untuk input mau mencar
 
 Dan jika memilih nomor 6 (Kembali), itu akan langsung di alihkan ke bagian milih Role di awal
 
+============================= **USER** =============================
+
+![1 (1)](https://github.com/user-attachments/assets/215c30a2-bdca-4193-9333-9c40817cb63c)
+
+Jika di awal memilih role User. selanjutnya akan di tanya untuk di user sudah memiliki akun atau tidak. jika ya maka akan langsung ke menu user. jika tidak akan di alihkan untuk membuat akun terlebih dahulu
+
+![Jika -Tidak- (Membuat Akun)](https://github.com/user-attachments/assets/38cce4b3-fbf0-4b48-bda3-1e5298735531)
+
+Jika memilih tidak saat di tanya sudah memiliki akun atau belum. selanjutnya akan di minta untuk membuat akun dan password
+dengan beberapa larangan tidak boleh spasi,simbol dan ada minimal kata.
+
+
+![Berhasil Membuat Akun](https://github.com/user-attachments/assets/284743b8-086f-40b6-95f5-725de331f659)
+
+Jika Suda membuat akun maka akan muncul pemberitahuan akun telah berhasil dibuat
+
+![Jika -Ya- (Ke User Menu) (1)](https://github.com/user-attachments/assets/3d6beb43-f103-4cd5-87df-b56e50c23133)
+
+Jika sudah membuat akun maka langsung di alihkan ke Menu User. di menu user ada beberapa pilihan fitur di Menu User ini
+
+![5 (1)](https://github.com/user-attachments/assets/e934a19f-a845-4557-9bd3-0b2f014482a9)
+
+Jika Memilih Nomor 1 pada Menu user maka akan menampilkan Tabel Produk dari kedua Kategori, Makanan dan Minuman. Selanjutnya akan otomatis kembali ke Menu User
+
+![7 (1)](https://github.com/user-attachments/assets/6699a691-a022-482f-894a-545b6905ddd4)
+
+Jika Memilih untuk Pesan Maka diminta untuk memasukan ID produk yang ingin di pesan dan jumlah produk yang ingin di pesan
+
+![8 (1)](https://github.com/user-attachments/assets/5babf717-b5b2-4543-a33a-339b6e2b0800)
+
+Jika Sudah input ID Produk yang ingin di pesan maka akan ada pemberitahuan bahwa produk tersebut berhasil dipesan.
+
+![9 (1)](https://github.com/user-attachments/assets/9edd3aa6-286d-49bf-8234-72419990c378)
+
+Dan di pemesanan menu ini bisa melihat apa aja yang sudah kita pesan.
+
+![10 (1)](https://github.com/user-attachments/assets/0113ad78-f3ad-4e00-bae6-a7c8dd6bc693)
+
+Selain melihat pesanan kita juga bisa langsug membayar pesanan tersebut dengan syarat harus memasukan Username dan Password kita di Menu User
+
+![11 (1)](https://github.com/user-attachments/assets/ed2c397d-1907-4f68-99bc-bc8118ad2de9)
+
+Jika Username dan Password untuk membayar pesanan akan muncul pemberitahuan Pembayaran berhasil dan di berikan nota struk dan juga ada di beritahu sisa saldo kita berapa.
+
+![Cari #1](https://github.com/user-attachments/assets/ce75b0ee-6b93-49f1-9832-b31500822a5a)
+
+Jika memilih nomor 3 pada user menu maka akan langsung diminta untuk input produk apa yang ingin di cari.
+
+![Cari #2](https://github.com/user-attachments/assets/839b6018-1fc2-4466-bb6c-9e17b963464d)
+
+setelah input produk yang ingin di cari maka akan menampilkan tabel produk yang sesuai atau bersangkutan dengan input yang di masukan
+
+![12 (1)](https://github.com/user-attachments/assets/0c2822a6-66ba-4524-ace9-5290405cd469)
+
+Jika memilih Nomor 4 pada user menu makan akan menampilkan table E-Money. dimana itu ada beberapa fitur yaitu. mengecek dan menambah saldo dan juga keluar
+
+![13 (1)](https://github.com/user-attachments/assets/465a590c-a561-439e-902d-b5fe839afaa6)
+
+![14 (1)](https://github.com/user-attachments/assets/aaa8820c-b9c6-4a2d-afa6-d5f5bf4c3837)
+
+Jika memilih untuk mengecek saldo maka akan langsung di minta memasukan Username dan Password. lalu akan ada pemberitahuan kalau saldo anda berapa.
+
+![16](https://github.com/user-attachments/assets/7ec5bfa4-95ac-4156-a330-8daaff1675bd)
+
+Jika memilih untuk menambah saldo maka sama kayak ngecek saldo. akan langsung diminta untuk memasukan username dan password.Jika sudah memasukan username dan password maka akan langsung diminta untuk memasukan nominal saldo yang ingin di tambah. dengan catatan minimal 20.000 - 500.000
+
+![17](https://github.com/user-attachments/assets/982e64a6-abf9-434d-b4ee-72ab78cc9805)
+
+Setelah memasukan nominal. maka akan muncul pemberitahuan bahwa berhasil menambahkan saldo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
